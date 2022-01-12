@@ -9,7 +9,7 @@ Calculate how much money you can spend this month based on
 
 **how many months you want to save over.**
 
------------------------------------
+---
 
 **今月使えるお金を計算します。**
 
