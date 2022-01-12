@@ -13,9 +13,9 @@ Calculate how much money you can spend this month based on
 
 今月使えるお金を計算します。
 
-**貯金額、目標貯金額、
+**貯金額、目標貯金額、**
 
-**来月の収入、固定費、
+**来月の収入、固定費、**
 
 **何ヵ月かけて貯金したいか**から
 
