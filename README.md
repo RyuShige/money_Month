@@ -1,5 +1,5 @@
 # money_Month
-<u>**Calculate the budget you can spend in a month.**</u>
+**<u>Calculate the budget you can spend in a month.</u>**
 
 Calculate how much money you can spend this month based on 
 
