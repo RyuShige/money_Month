@@ -3,11 +3,11 @@ Calculate the budget you can spend in a month.
 
 Calculate how much money you can spend this month based on 
 
-how much you have saved, your target savings,
+**how much you have saved, your target savings,**
 
-next month's income, fixed cost, and 
+**next month's income, fixed cost, and **
 
-how many months you want to save over.
+**how many months you want to save over.**
 
 -----------------------------------
 
