@@ -1,5 +1,5 @@
 # money_Month
-**Calculate the budget you can spend in a month.**
+<u>**Calculate the budget you can spend in a month.**</u>
 
 Calculate how much money you can spend this month based on 
 
@@ -11,7 +11,7 @@ Calculate how much money you can spend this month based on
 
 -----------------------------------
 
-今月使えるお金を計算します。
+<u>**今月使えるお金を計算します。**</u>
 
 **貯金額、目標貯金額、**
 
